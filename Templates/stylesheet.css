@@ -14,3 +14,9 @@
 .headerPanel {
   background-color: rgb(255,193,7);
 }
+
+.map {
+    width: 80%;
+    height: 70vh;
+    background-color: rgb(99,35,183);
+}
